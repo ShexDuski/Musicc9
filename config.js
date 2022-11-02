@@ -1,6 +1,6 @@
 module.exports = {
-TOKEN: '.Token', // Token lera dane
-status: 'Music v14', // shtik bnusa bo zherr botaka
+TOKEN: 'MTAzNzM2MjIyMzcxMjA0NzIwNA.Gl4SmA.uo18Ji2r5uHmOtzyZuKO-aROdDSn1nsppuST2g', // Token lera dane
+status: 'Dev: ShexDuski', // shtik bnusa bo zherr botaka
 commandsDir: './commands', //dast kari ama maka
         
 opt: {
